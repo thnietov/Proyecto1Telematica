@@ -1,6 +1,10 @@
 # Proyecto Chat Cliente-Servidor en C (Sockets TCP con Pthreads)
 
 Este proyecto es una implementación de un sistema de chat en C utilizando sockets TCP y hilos (`pthread`). Permite que múltiples clientes se conecten a un servidor y compartan mensajes en tiempo real.
+Integrantes del equipo: 
+	-Valeria Cardona Urrea
+	-Thomas Nieto Valencia
+ 	-Marco Gomez Patiño
 
 ---
 
